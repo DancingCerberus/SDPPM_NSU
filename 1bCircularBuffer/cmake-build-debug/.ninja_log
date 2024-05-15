@@ -1,0 +1,21 @@
+# ninja log v5
+16	1093	7246066093400434	test/CMakeFiles/Tests.dir/TestUtils.cpp.obj	1b56c67f6b497fca
+10431	13168	7240599355602067	lib/libgtest.a	9ca3a0b61cea2d20
+4	2543	7246065738042992	test/CMakeFiles/Tests.dir/ChangeMethodsTest.cpp.obj	80ba9e836834da05
+13	14371	7246717161078358	test/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	e964eaa9d9356ffb
+4	1049	1715812865871740371	build.ninja	c361eb42b65e4125
+2544	5630	7246065768887530	test/Tests.exe	1ae836b3978f730d
+1	384	7228167607565892	libcircularbufferlib.dll.a	17c881f3f30a7b57
+5	2846	7246066110948100	test/CMakeFiles/Tests.dir/CreationTest.cpp.obj	889d73edc3fc0147
+1	384	7228167607565892	libcircularbufferlib.dll	17c881f3f30a7b57
+13168	13255	7240599356480891	lib/libgtest_main.a	a29811064a86f851
+8	1437	7246717032113487	test/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	cf010eead6f78170
+1	65	1715812872451740597	libcircularbufferlib.so	3cbffa4744643303
+1	555	1715812872941740614	test/CMakeFiles/Tests.dir/TestUtils.cpp.o	c9f9ec4e3c37d921
+1	1063	1715812873448407297	test/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	330060c9be804f7e
+1	1314	1715812873698407306	test/CMakeFiles/Tests.dir/CreationTest.cpp.o	7991d896b5da219c
+1	4631	1715812877011740754	test/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	ee78e708a5f1bb83
+2	101	1715812890711741224	lib/libgtest.a	596f32c52571028c
+101	125	1715812890751741225	lib/libgtest_main.a	5e8ec9919c57247f
+2	1621	1715812892248407944	test/CMakeFiles/Tests.dir/ChangeMethodsTest.cpp.o	50967ec6d53f946
+1621	1714	1715812892338407946	test/Tests	c38bffd0d3af98ee
