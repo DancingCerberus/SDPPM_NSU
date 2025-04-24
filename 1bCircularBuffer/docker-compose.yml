@@ -1,0 +1,13 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+      - ./test_results:/app/test_results
+    working_dir: /app
+    command: >
+      bash -c "cmake -B /app/build -DCMAKE_BUILD_TYPE=Release &&
+               cmake --build /app/build --config Release &&
+               cd /app/build/test && ./Tests | tee /app/test_results/test_output.txt"
